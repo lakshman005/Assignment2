@@ -1,0 +1,12 @@
+D:\VB\DemoProject\DemoProject\obj\Debug\DemoProject.vbproj.AssemblyReference.cache
+D:\VB\DemoProject\DemoProject\obj\Debug\DemoProject.vbproj.SuggestedBindingRedirects.cache
+D:\VB\DemoProject\DemoProject\obj\Debug\DemoProject.Resources.resources
+D:\VB\DemoProject\DemoProject\obj\Debug\DemoProject.vbproj.GenerateResource.cache
+D:\VB\DemoProject\DemoProject\obj\Debug\DemoProject.vbproj.CoreCompileInputs.cache
+D:\VB\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+D:\VB\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+D:\VB\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+D:\VB\DemoProject\DemoProject\bin\Debug\DemoProject.xml
+D:\VB\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+D:\VB\DemoProject\DemoProject\obj\Debug\DemoProject.xml
+D:\VB\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
